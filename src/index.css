@@ -1,0 +1,7 @@
+@import '~antd/dist/antd.css';
+
+html, body, #root {
+  margin: 0;
+  height: 100%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
