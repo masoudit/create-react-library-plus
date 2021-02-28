@@ -1,10 +1,10 @@
 import React from "react";
-import Journay from "./pages/root";
+import BasicExample from "./pages/basic";
 
 const App = (props) => {
   return (
     <>
-      <Journay />
+      <BasicExample />
     </>
   );
 };

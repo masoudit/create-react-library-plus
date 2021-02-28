@@ -7,6 +7,7 @@
 .eslintcache
 # testing
 /coverage
+/example/**/node_modules
 
 # production
 /build
